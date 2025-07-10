@@ -1,0 +1,5 @@
+python-telegram-bot==22.2
+aiohttp==3.12.13
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.41
+requests==2.32.4
